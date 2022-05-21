@@ -26,7 +26,7 @@ This is a project template for [Svelte](https://svelte.dev) apps.
 
 - Clone the Repo
     ```bash
-    git clone https://github.com/wadehrarshpreet/svelte-typescript-boilerplace.git <project-name>
+    git clone -b tailwind --single-branch https://github.com/wadehrarshpreet/svelte-typescript-boilerplace.git <project-name>
     ```
 
 - go to project directoy and install dependencies

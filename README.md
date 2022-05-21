@@ -19,7 +19,7 @@ This is a project template for [Svelte](https://svelte.dev) apps.
 - Install [NodeJS 16.10+](https://nodejs.org/en/download/)
 - Install Yarn 1.2x
     ```sh
-    npm global install yarn
+    npm install global yarn
     ```
 
 ## Get started

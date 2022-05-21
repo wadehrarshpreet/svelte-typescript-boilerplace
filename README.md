@@ -31,6 +31,8 @@ This is a project template for [Svelte](https://svelte.dev) apps.
 - go to project directoy and install dependencies
     ```bash
     cd <project-name> && yarn
+    rm -rf .git # remove .git
+    git init # setup new git repo
     ```
 
 - Start dev server

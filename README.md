@@ -12,6 +12,7 @@ This is a project template for [Svelte](https://svelte.dev) apps.
 - [Rollup](https://rollupjs.org)
 
 
+> For boilerplate with [Tailwind support click here](https://github.com/wadehrarshpreet/svelte-typescript-boilerplace/tree/tailwind)
 
 # Pre-requisite
 

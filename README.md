@@ -13,7 +13,6 @@ This is a project template for [Svelte](https://svelte.dev) apps.
 - [Rollup](https://rollupjs.org)
 
 
-
 # Pre-requisite
 
 - Install [NodeJS 16.10+](https://nodejs.org/en/download/)

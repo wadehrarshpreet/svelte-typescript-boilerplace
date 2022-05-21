@@ -5,6 +5,7 @@ This is a project template for [Svelte](https://svelte.dev) apps.
 ### Featuring
 - [Svelte](https://svelte.dev/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
 - [Jest](https://jestjs.io/)
 - [Svelte Testing Library](https://testing-library.com/docs/svelte-testing-library/intro/)
 - [Eslint](https://eslint.org/)

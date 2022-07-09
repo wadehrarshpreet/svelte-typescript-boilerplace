@@ -1,10 +1,11 @@
 <script lang="ts">
+  import { _, locale, locales } from 'i18n';
   export let name: string;
 </script>
 
 <main>
   <h1>
-    Hello
+    {$_('hello')}
     {name}!
   </h1>
   <p>
@@ -14,6 +15,11 @@
     by
     <a target="_blank" href="https://wadehrarshpreet.com">Arshpreet Wadehra</a>
   </p>
+  <select bind:value={$locale}>
+    {#each $locales as locale}
+      <option value={locale}>{locale}</option>
+    {/each}
+  </select>
 </main>
 
 <style>

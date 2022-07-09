@@ -11,6 +11,7 @@ This is a project template for [Svelte](https://svelte.dev) apps.
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Rollup](https://rollupjs.org)
+- [i18n](https://www.npmjs.com/package/svelte-i18n)
 
 
 # Pre-requisite

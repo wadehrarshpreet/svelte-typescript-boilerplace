@@ -1,6 +1,6 @@
 module.exports = {
   plugins: [],
-  content: ['./src/App.svelte'],
+  content: ['./src/**/*.svelte'],
   theme: {
       extend: {
           colors: {
